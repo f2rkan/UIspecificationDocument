@@ -1,0 +1,2 @@
+# UIspecificationDocument
+for Telecom Software
